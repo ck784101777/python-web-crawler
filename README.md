@@ -3,7 +3,7 @@
 
 ## 漫画
 
-- [爬漫画](https://github.com/ck784101777/python-web-crawler/blob/master/cartoon/)
+- [冰海战记](https://github.com/ck784101777/python-web-crawler/blob/master/cartoon/)
 
 ## 小 说
 
@@ -11,4 +11,4 @@
 
 ## 图片
 
-- [全本网小说](https://github.com/ck784101777/python-web-crawler/tree/master/images/baiduimage)
+- [百度图片](https://github.com/ck784101777/python-web-crawler/tree/master/images/baiduimage)
